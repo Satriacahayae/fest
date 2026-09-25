@@ -182,7 +182,9 @@ footer {
   display: flex;
   align-items: center;
   padding: 140px 7vw 80px;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.35)), url("Assets/Kataraci.jpg");
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.35)),
+    url("Assets/kataraci.jpg") center / cover no-repeat;
   background-size: cover;
   background-position: center;
   overflow: hidden;
