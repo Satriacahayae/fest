@@ -542,7 +542,7 @@ const artistData = {
     stage: "MAIN STAGE",
     date: "18 JULY 2027",
     time: "21:00 — 22:00",
-    image: "assets/perunggu.jpg",
+    image: "Assets/perunggu.jpg",
   },
 
   HINDIA: {
@@ -550,7 +550,7 @@ const artistData = {
     stage: "MAIN STAGE",
     date: "18 JULY 2027",
     time: "19:00 — 20:00",
-    image: "assets/hindia.jpg",
+    image: "Assets/hindia.jpg",
   },
 
   "THE PANTURAS": {
@@ -558,7 +558,7 @@ const artistData = {
     stage: "MAIN STAGE",
     date: "18 JULY 2027",
     time: "18:00 — 19:00",
-    image: "assets/panturas.jpg",
+    image: "Assets/panturas.jpg",
   },
 
   MORFEM: {
@@ -566,7 +566,7 @@ const artistData = {
     stage: "COMMUNITY STAGE",
     date: "18 JULY 2027",
     time: "17:00 — 18:00",
-    image: "assets/morfem.jpg",
+    image: "Assets/morfem.jpg",
   },
 
   FOURTWNTY: {
@@ -574,7 +574,7 @@ const artistData = {
     stage: "MAIN STAGE",
     date: "18 JULY 2027",
     time: "20:30 — 21:30",
-    image: "assets/fourtwenty.jpg",
+    image: "Assets/fourtwenty.jpg",
   },
 };
 
